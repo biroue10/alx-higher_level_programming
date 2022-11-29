@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("Hello World Welcome to this python tutorial")
+python3 $PYFILE
